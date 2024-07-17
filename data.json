@@ -1,0 +1,108 @@
+{
+    "factworkers": [
+        {
+            "wId":1,
+            "username": "jamel",
+            "gradel":"employee",
+            "imageurl":"https://thumbs.dreamstime.com/z/smiling-industrial-manufacturing-factory-worker-happy-man-has-smile-his-face-wearing-safety-glasses-hard-hat-39995035.jpg"
+
+        },
+        {
+            "wId":2,
+            "username": "eya",
+             "gradel":"laborer",
+             "imageurl":"https://www.fairobserver.com/wp-content/uploads/2017/08/Factory-workers-America-news-manufacturing-jobs-world-news-1.jpg"
+        },
+        {
+            "wId":3 ,
+            "username": "raaef",
+             "gradel":"employee",
+             "imageurl":"https://img.freepik.com/premium-photo/portrait-black-factory-worker-hardhat-staring-photo-while-standing-workshop-copy-space-factory-industrial-engineering_28914-3510.jpg"
+            
+        },
+        {
+            "wId":4 ,
+            "username": "absi",
+             "gradel":"laborer",
+             "imageurl":"https://www.shutterstock.com/image-photo/indian-mechanical-engineer-wearing-safety-260nw-2009898182.jpg"
+        
+        },
+        {
+            "wId": 5,
+            "username": "ghazy",
+             "gradel":"boss",
+             "imageurl":"https://img.freepik.com/premium-photo/factory-boss-workshop_236854-819.jpg"
+        },
+        {
+            "wId":6 ,
+            "username": "salim",
+             "gradel":"boss",
+             "imageurl":"https://static2.bigstockphoto.com/7/1/1/large1500/117154421.jpg"
+        }
+
+       
+
+
+    ],
+    
+    "workshop": [
+        {
+            "id": 1,
+            "classe": "A",
+            "factworkers_wId": 1
+        },
+        {
+            "id":2,
+            "classe": "B",
+           "factworkers_wId": 2
+        },
+        {
+            "id":3,
+            "classe": "B",
+            "factworkers_wId": 1
+        },
+        {
+            "id": 4,
+            "classe": "D",
+            "factworkers_wId": 4
+        },
+        {
+            "id": 5,
+            "classe": "E",
+            "factworkers_wId": 2
+        },
+        {
+            "id": 6,
+            "classe": "E",
+            "factworkers_wId": 4
+        }
+       
+    ],
+
+    "product": [
+        {
+            "name":"shoko",
+            "imageurl":"https://swisslionbg.com/wp-content/uploads/2019/04/Choco-Biscuit-Tamni-125g-2.jpg"
+        },
+        {
+            "name":"orio",
+            "imageurl":"https://5.imimg.com/data5/SELLER/Default/2022/1/AG/FP/XD/91977329/confectionery-products.png"
+        },
+        {
+            "name":"jambo",
+            "imageurl":"https://img.freepik.com/premium-vector/biscuits-package-flat-icon-vending-sweet-product_176411-6608.jpg"
+        },
+        {
+            "name":"choko chip",
+            "imageurl":"https://m.media-amazon.com/images/I/61WC7D-o5DL.jpg"
+        }
+       
+    ]
+
+
+
+}
+
+
+
+
